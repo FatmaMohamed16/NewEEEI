@@ -1,0 +1,3622 @@
+[
+  {
+    "companyId": 1,
+    "fieldId": 2
+  },
+  {
+    "companyId": 2,
+    "fieldId": 2
+  },
+  {
+    "companyId": 2,
+    "fieldId": 13
+  },
+  {
+    "companyId": 3,
+    "fieldId": 24
+  },
+  {
+    "companyId": 4,
+    "fieldId": 6
+  },
+  {
+    "companyId": 4,
+    "fieldId": 32
+  },
+  {
+    "companyId": 4,
+    "fieldId": 35
+  },
+  {
+    "companyId": 4,
+    "fieldId": 37
+  },
+  {
+    "companyId": 5,
+    "fieldId": 7
+  },
+  {
+    "companyId": 5,
+    "fieldId": 10
+  },
+  {
+    "companyId": 5,
+    "fieldId": 24
+  },
+  {
+    "companyId": 5,
+    "fieldId": 31
+  },
+  {
+    "companyId": 6,
+    "fieldId": 9
+  },
+  {
+    "companyId": 7,
+    "fieldId": 2
+  },
+  {
+    "companyId": 7,
+    "fieldId": 17
+  },
+  {
+    "companyId": 7,
+    "fieldId": 20
+  },
+  {
+    "companyId": 7,
+    "fieldId": 28
+  },
+  {
+    "companyId": 8,
+    "fieldId": 11
+  },
+  {
+    "companyId": 9,
+    "fieldId": 9
+  },
+  {
+    "companyId": 10,
+    "fieldId": 4
+  },
+  {
+    "companyId": 10,
+    "fieldId": 5
+  },
+  {
+    "companyId": 11,
+    "fieldId": 2
+  },
+  {
+    "companyId": 11,
+    "fieldId": 6
+  },
+  {
+    "companyId": 11,
+    "fieldId": 10
+  },
+  {
+    "companyId": 11,
+    "fieldId": 24
+  },
+  {
+    "companyId": 12,
+    "fieldId": 36
+  },
+  {
+    "companyId": 13,
+    "fieldId": 11
+  },
+  {
+    "companyId": 13,
+    "fieldId": 35
+  },
+  {
+    "companyId": 13,
+    "fieldId": 37
+  },
+  {
+    "companyId": 13,
+    "fieldId": 39
+  },
+  {
+    "companyId": 14,
+    "fieldId": 36
+  },
+  {
+    "companyId": 15,
+    "fieldId": 12
+  },
+  {
+    "companyId": 16,
+    "fieldId": 6
+  },
+  {
+    "companyId": 16,
+    "fieldId": 20
+  },
+  {
+    "companyId": 16,
+    "fieldId": 22
+  },
+  {
+    "companyId": 16,
+    "fieldId": 23
+  },
+  {
+    "companyId": 17,
+    "fieldId": 12
+  },
+  {
+    "companyId": 17,
+    "fieldId": 26
+  },
+  {
+    "companyId": 17,
+    "fieldId": 34
+  },
+  {
+    "companyId": 17,
+    "fieldId": 42
+  },
+  {
+    "companyId": 18,
+    "fieldId": 10
+  },
+  {
+    "companyId": 18,
+    "fieldId": 11
+  },
+  {
+    "companyId": 18,
+    "fieldId": 14
+  },
+  {
+    "companyId": 18,
+    "fieldId": 39
+  },
+  {
+    "companyId": 19,
+    "fieldId": 2
+  },
+  {
+    "companyId": 19,
+    "fieldId": 4
+  },
+  {
+    "companyId": 19,
+    "fieldId": 6
+  },
+  {
+    "companyId": 19,
+    "fieldId": 7
+  },
+  {
+    "companyId": 20,
+    "fieldId": 2
+  },
+  {
+    "companyId": 20,
+    "fieldId": 10
+  },
+  {
+    "companyId": 20,
+    "fieldId": 11
+  },
+  {
+    "companyId": 20,
+    "fieldId": 16
+  },
+  {
+    "companyId": 21,
+    "fieldId": 10
+  },
+  {
+    "companyId": 21,
+    "fieldId": 40
+  },
+  {
+    "companyId": 22,
+    "fieldId": 2
+  },
+  {
+    "companyId": 22,
+    "fieldId": 9
+  },
+  {
+    "companyId": 22,
+    "fieldId": 30
+  },
+  {
+    "companyId": 22,
+    "fieldId": 38
+  },
+  {
+    "companyId": 23,
+    "fieldId": 11
+  },
+  {
+    "companyId": 23,
+    "fieldId": 15
+  },
+  {
+    "companyId": 23,
+    "fieldId": 39
+  },
+  {
+    "companyId": 24,
+    "fieldId": 9
+  },
+  {
+    "companyId": 24,
+    "fieldId": 11
+  },
+  {
+    "companyId": 24,
+    "fieldId": 13
+  },
+  {
+    "companyId": 24,
+    "fieldId": 34
+  },
+  {
+    "companyId": 25,
+    "fieldId": 2
+  },
+  {
+    "companyId": 25,
+    "fieldId": 6
+  },
+  {
+    "companyId": 25,
+    "fieldId": 7
+  },
+  {
+    "companyId": 25,
+    "fieldId": 13
+  },
+  {
+    "companyId": 26,
+    "fieldId": 22
+  },
+  {
+    "companyId": 27,
+    "fieldId": 6
+  },
+  {
+    "companyId": 27,
+    "fieldId": 16
+  },
+  {
+    "companyId": 27,
+    "fieldId": 20
+  },
+  {
+    "companyId": 27,
+    "fieldId": 22
+  },
+  {
+    "companyId": 28,
+    "fieldId": 12
+  },
+  {
+    "companyId": 28,
+    "fieldId": 14
+  },
+  {
+    "companyId": 29,
+    "fieldId": 2
+  },
+  {
+    "companyId": 29,
+    "fieldId": 6
+  },
+  {
+    "companyId": 29,
+    "fieldId": 9
+  },
+  {
+    "companyId": 29,
+    "fieldId": 11
+  },
+  {
+    "companyId": 30,
+    "fieldId": 9
+  },
+  {
+    "companyId": 31,
+    "fieldId": 14
+  },
+  {
+    "companyId": 32,
+    "fieldId": 8
+  },
+  {
+    "companyId": 33,
+    "fieldId": 41
+  },
+  {
+    "companyId": 34,
+    "fieldId": 11
+  },
+  {
+    "companyId": 35,
+    "fieldId": 6
+  },
+  {
+    "companyId": 35,
+    "fieldId": 13
+  },
+  {
+    "companyId": 35,
+    "fieldId": 20
+  },
+  {
+    "companyId": 35,
+    "fieldId": 21
+  },
+  {
+    "companyId": 36,
+    "fieldId": 2
+  },
+  {
+    "companyId": 36,
+    "fieldId": 5
+  },
+  {
+    "companyId": 36,
+    "fieldId": 6
+  },
+  {
+    "companyId": 37,
+    "fieldId": 10
+  },
+  {
+    "companyId": 37,
+    "fieldId": 14
+  },
+  {
+    "companyId": 38,
+    "fieldId": 22
+  },
+  {
+    "companyId": 39,
+    "fieldId": 2
+  },
+  {
+    "companyId": 39,
+    "fieldId": 6
+  },
+  {
+    "companyId": 39,
+    "fieldId": 14
+  },
+  {
+    "companyId": 39,
+    "fieldId": 30
+  },
+  {
+    "companyId": 40,
+    "fieldId": 14
+  },
+  {
+    "companyId": 41,
+    "fieldId": 14
+  },
+  {
+    "companyId": 41,
+    "fieldId": 33
+  },
+  {
+    "companyId": 42,
+    "fieldId": 6
+  },
+  {
+    "companyId": 42,
+    "fieldId": 11
+  },
+  {
+    "companyId": 42,
+    "fieldId": 14
+  },
+  {
+    "companyId": 43,
+    "fieldId": 9
+  },
+  {
+    "companyId": 44,
+    "fieldId": 5
+  },
+  {
+    "companyId": 45,
+    "fieldId": 24
+  },
+  {
+    "companyId": 46,
+    "fieldId": 9
+  },
+  {
+    "companyId": 47,
+    "fieldId": 28
+  },
+  {
+    "companyId": 48,
+    "fieldId": 41
+  },
+  {
+    "companyId": 49,
+    "fieldId": 15
+  },
+  {
+    "companyId": 49,
+    "fieldId": 20
+  },
+  {
+    "companyId": 49,
+    "fieldId": 21
+  },
+  {
+    "companyId": 49,
+    "fieldId": 37
+  },
+  {
+    "companyId": 50,
+    "fieldId": 9
+  },
+  {
+    "companyId": 51,
+    "fieldId": 21
+  },
+  {
+    "companyId": 52,
+    "fieldId": 5
+  },
+  {
+    "companyId": 53,
+    "fieldId": 6
+  },
+  {
+    "companyId": 54,
+    "fieldId": 4
+  },
+  {
+    "companyId": 55,
+    "fieldId": 12
+  },
+  {
+    "companyId": 56,
+    "fieldId": 31
+  },
+  {
+    "companyId": 57,
+    "fieldId": 30
+  },
+  {
+    "companyId": 58,
+    "fieldId": 6
+  },
+  {
+    "companyId": 58,
+    "fieldId": 9
+  },
+  {
+    "companyId": 58,
+    "fieldId": 10
+  },
+  {
+    "companyId": 58,
+    "fieldId": 12
+  },
+  {
+    "companyId": 59,
+    "fieldId": 15
+  },
+  {
+    "companyId": 60,
+    "fieldId": 2
+  },
+  {
+    "companyId": 60,
+    "fieldId": 6
+  },
+  {
+    "companyId": 60,
+    "fieldId": 10
+  },
+  {
+    "companyId": 60,
+    "fieldId": 24
+  },
+  {
+    "companyId": 61,
+    "fieldId": 5
+  },
+  {
+    "companyId": 62,
+    "fieldId": 32
+  },
+  {
+    "companyId": 63,
+    "fieldId": 2
+  },
+  {
+    "companyId": 63,
+    "fieldId": 35
+  },
+  {
+    "companyId": 63,
+    "fieldId": 37
+  },
+  {
+    "companyId": 64,
+    "fieldId": 22
+  },
+  {
+    "companyId": 65,
+    "fieldId": 22
+  },
+  {
+    "companyId": 65,
+    "fieldId": 24
+  },
+  {
+    "companyId": 65,
+    "fieldId": 39
+  },
+  {
+    "companyId": 66,
+    "fieldId": 22
+  },
+  {
+    "companyId": 67,
+    "fieldId": 5
+  },
+  {
+    "companyId": 68,
+    "fieldId": 1
+  },
+  {
+    "companyId": 68,
+    "fieldId": 24
+  },
+  {
+    "companyId": 68,
+    "fieldId": 35
+  },
+  {
+    "companyId": 69,
+    "fieldId": 2
+  },
+  {
+    "companyId": 69,
+    "fieldId": 6
+  },
+  {
+    "companyId": 69,
+    "fieldId": 10
+  },
+  {
+    "companyId": 70,
+    "fieldId": 22
+  },
+  {
+    "companyId": 70,
+    "fieldId": 23
+  },
+  {
+    "companyId": 71,
+    "fieldId": 7
+  },
+  {
+    "companyId": 71,
+    "fieldId": 8
+  },
+  {
+    "companyId": 72,
+    "fieldId": 8
+  },
+  {
+    "companyId": 73,
+    "fieldId": 36
+  },
+  {
+    "companyId": 74,
+    "fieldId": 2
+  },
+  {
+    "companyId": 75,
+    "fieldId": 27
+  },
+  {
+    "companyId": 76,
+    "fieldId": 21
+  },
+  {
+    "companyId": 76,
+    "fieldId": 27
+  },
+  {
+    "companyId": 77,
+    "fieldId": 13
+  },
+  {
+    "companyId": 77,
+    "fieldId": 25
+  },
+  {
+    "companyId": 78,
+    "fieldId": 22
+  },
+  {
+    "companyId": 78,
+    "fieldId": 23
+  },
+  {
+    "companyId": 78,
+    "fieldId": 35
+  },
+  {
+    "companyId": 79,
+    "fieldId": 11
+  },
+  {
+    "companyId": 79,
+    "fieldId": 15
+  },
+  {
+    "companyId": 79,
+    "fieldId": 35
+  },
+  {
+    "companyId": 79,
+    "fieldId": 37
+  },
+  {
+    "companyId": 80,
+    "fieldId": 16
+  },
+  {
+    "companyId": 81,
+    "fieldId": 31
+  },
+  {
+    "companyId": 82,
+    "fieldId": 38
+  },
+  {
+    "companyId": 83,
+    "fieldId": 38
+  },
+  {
+    "companyId": 84,
+    "fieldId": 29
+  },
+  {
+    "companyId": 84,
+    "fieldId": 38
+  },
+  {
+    "companyId": 85,
+    "fieldId": 22
+  },
+  {
+    "companyId": 86,
+    "fieldId": 9
+  },
+  {
+    "companyId": 87,
+    "fieldId": 22
+  },
+  {
+    "companyId": 88,
+    "fieldId": 2
+  },
+  {
+    "companyId": 88,
+    "fieldId": 24
+  },
+  {
+    "companyId": 88,
+    "fieldId": 30
+  },
+  {
+    "companyId": 89,
+    "fieldId": 5
+  },
+  {
+    "companyId": 90,
+    "fieldId": 21
+  },
+  {
+    "companyId": 91,
+    "fieldId": 1
+  },
+  {
+    "companyId": 91,
+    "fieldId": 24
+  },
+  {
+    "companyId": 92,
+    "fieldId": 2
+  },
+  {
+    "companyId": 93,
+    "fieldId": 8
+  },
+  {
+    "companyId": 93,
+    "fieldId": 10
+  },
+  {
+    "companyId": 93,
+    "fieldId": 24
+  },
+  {
+    "companyId": 94,
+    "fieldId": 24
+  },
+  {
+    "companyId": 95,
+    "fieldId": 24
+  },
+  {
+    "companyId": 96,
+    "fieldId": 32
+  },
+  {
+    "companyId": 97,
+    "fieldId": 30
+  },
+  {
+    "companyId": 98,
+    "fieldId": 25
+  },
+  {
+    "companyId": 99,
+    "fieldId": 14
+  },
+  {
+    "companyId": 100,
+    "fieldId": 24
+  },
+  {
+    "companyId": 101,
+    "fieldId": 24
+  },
+  {
+    "companyId": 102,
+    "fieldId": 24
+  },
+  {
+    "companyId": 103,
+    "fieldId": 36
+  },
+  {
+    "companyId": 104,
+    "fieldId": 26
+  },
+  {
+    "companyId": 105,
+    "fieldId": 23
+  },
+  {
+    "companyId": 106,
+    "fieldId": 14
+  },
+  {
+    "companyId": 107,
+    "fieldId": 14
+  },
+  {
+    "companyId": 108,
+    "fieldId": 32
+  },
+  {
+    "companyId": 109,
+    "fieldId": 1
+  },
+  {
+    "companyId": 109,
+    "fieldId": 2
+  },
+  {
+    "companyId": 109,
+    "fieldId": 3
+  },
+  {
+    "companyId": 110,
+    "fieldId": 2
+  },
+  {
+    "companyId": 110,
+    "fieldId": 6
+  },
+  {
+    "companyId": 110,
+    "fieldId": 7
+  },
+  {
+    "companyId": 111,
+    "fieldId": 8
+  },
+  {
+    "companyId": 112,
+    "fieldId": 24
+  },
+  {
+    "companyId": 113,
+    "fieldId": 1
+  },
+  {
+    "companyId": 114,
+    "fieldId": 9
+  },
+  {
+    "companyId": 114,
+    "fieldId": 10
+  },
+  {
+    "companyId": 115,
+    "fieldId": 2
+  },
+  {
+    "companyId": 115,
+    "fieldId": 10
+  },
+  {
+    "companyId": 116,
+    "fieldId": 10
+  },
+  {
+    "companyId": 117,
+    "fieldId": 6
+  },
+  {
+    "companyId": 117,
+    "fieldId": 12
+  },
+  {
+    "companyId": 117,
+    "fieldId": 13
+  },
+  {
+    "companyId": 118,
+    "fieldId": 2
+  },
+  {
+    "companyId": 118,
+    "fieldId": 7
+  },
+  {
+    "companyId": 118,
+    "fieldId": 11
+  },
+  {
+    "companyId": 118,
+    "fieldId": 14
+  },
+  {
+    "companyId": 119,
+    "fieldId": 15
+  },
+  {
+    "companyId": 120,
+    "fieldId": 16
+  },
+  {
+    "companyId": 121,
+    "fieldId": 17
+  },
+  {
+    "companyId": 122,
+    "fieldId": 18
+  },
+  {
+    "companyId": 123,
+    "fieldId": 19
+  },
+  {
+    "companyId": 124,
+    "fieldId": 2
+  },
+  {
+    "companyId": 124,
+    "fieldId": 4
+  },
+  {
+    "companyId": 124,
+    "fieldId": 7
+  },
+  {
+    "companyId": 124,
+    "fieldId": 20
+  },
+  {
+    "companyId": 125,
+    "fieldId": 8
+  },
+  {
+    "companyId": 126,
+    "fieldId": 17
+  },
+  {
+    "companyId": 126,
+    "fieldId": 21
+  },
+  {
+    "companyId": 127,
+    "fieldId": 22
+  },
+  {
+    "companyId": 128,
+    "fieldId": 6
+  },
+  {
+    "companyId": 128,
+    "fieldId": 11
+  },
+  {
+    "companyId": 128,
+    "fieldId": 22
+  },
+  {
+    "companyId": 128,
+    "fieldId": 23
+  },
+  {
+    "companyId": 129,
+    "fieldId": 3
+  },
+  {
+    "companyId": 130,
+    "fieldId": 24
+  },
+  {
+    "companyId": 131,
+    "fieldId": 25
+  },
+  {
+    "companyId": 132,
+    "fieldId": 2
+  },
+  {
+    "companyId": 132,
+    "fieldId": 7
+  },
+  {
+    "companyId": 132,
+    "fieldId": 24
+  },
+  {
+    "companyId": 132,
+    "fieldId": 25
+  },
+  {
+    "companyId": 133,
+    "fieldId": 14
+  },
+  {
+    "companyId": 133,
+    "fieldId": 25
+  },
+  {
+    "companyId": 133,
+    "fieldId": 26
+  },
+  {
+    "companyId": 134,
+    "fieldId": 11
+  },
+  {
+    "companyId": 134,
+    "fieldId": 25
+  },
+  {
+    "companyId": 134,
+    "fieldId": 26
+  },
+  {
+    "companyId": 135,
+    "fieldId": 27
+  },
+  {
+    "companyId": 136,
+    "fieldId": 2
+  },
+  {
+    "companyId": 136,
+    "fieldId": 6
+  },
+  {
+    "companyId": 136,
+    "fieldId": 10
+  },
+  {
+    "companyId": 136,
+    "fieldId": 24
+  },
+  {
+    "companyId": 137,
+    "fieldId": 27
+  },
+  {
+    "companyId": 138,
+    "fieldId": 24
+  },
+  {
+    "companyId": 139,
+    "fieldId": 27
+  },
+  {
+    "companyId": 140,
+    "fieldId": 21
+  },
+  {
+    "companyId": 141,
+    "fieldId": 3
+  },
+  {
+    "companyId": 141,
+    "fieldId": 12
+  },
+  {
+    "companyId": 142,
+    "fieldId": 2
+  },
+  {
+    "companyId": 142,
+    "fieldId": 4
+  },
+  {
+    "companyId": 142,
+    "fieldId": 10
+  },
+  {
+    "companyId": 142,
+    "fieldId": 24
+  },
+  {
+    "companyId": 143,
+    "fieldId": 9
+  },
+  {
+    "companyId": 144,
+    "fieldId": 4
+  },
+  {
+    "companyId": 144,
+    "fieldId": 6
+  },
+  {
+    "companyId": 144,
+    "fieldId": 28
+  },
+  {
+    "companyId": 145,
+    "fieldId": 23
+  },
+  {
+    "companyId": 146,
+    "fieldId": 2
+  },
+  {
+    "companyId": 146,
+    "fieldId": 6
+  },
+  {
+    "companyId": 146,
+    "fieldId": 10
+  },
+  {
+    "companyId": 146,
+    "fieldId": 30
+  },
+  {
+    "companyId": 147,
+    "fieldId": 2
+  },
+  {
+    "companyId": 148,
+    "fieldId": 24
+  },
+  {
+    "companyId": 149,
+    "fieldId": 17
+  },
+  {
+    "companyId": 150,
+    "fieldId": 31
+  },
+  {
+    "companyId": 151,
+    "fieldId": 27
+  },
+  {
+    "companyId": 152,
+    "fieldId": 7
+  },
+  {
+    "companyId": 153,
+    "fieldId": 5
+  },
+  {
+    "companyId": 154,
+    "fieldId": 3
+  },
+  {
+    "companyId": 155,
+    "fieldId": 33
+  },
+  {
+    "companyId": 156,
+    "fieldId": 14
+  },
+  {
+    "companyId": 156,
+    "fieldId": 32
+  },
+  {
+    "companyId": 157,
+    "fieldId": 34
+  },
+  {
+    "companyId": 158,
+    "fieldId": 2
+  },
+  {
+    "companyId": 158,
+    "fieldId": 10
+  },
+  {
+    "companyId": 158,
+    "fieldId": 25
+  },
+  {
+    "companyId": 159,
+    "fieldId": 2
+  },
+  {
+    "companyId": 159,
+    "fieldId": 8
+  },
+  {
+    "companyId": 159,
+    "fieldId": 10
+  },
+  {
+    "companyId": 160,
+    "fieldId": 24
+  },
+  {
+    "companyId": 161,
+    "fieldId": 31
+  },
+  {
+    "companyId": 162,
+    "fieldId": 11
+  },
+  {
+    "companyId": 163,
+    "fieldId": 2
+  },
+  {
+    "companyId": 163,
+    "fieldId": 6
+  },
+  {
+    "companyId": 163,
+    "fieldId": 17
+  },
+  {
+    "companyId": 164,
+    "fieldId": 2
+  },
+  {
+    "companyId": 164,
+    "fieldId": 11
+  },
+  {
+    "companyId": 164,
+    "fieldId": 23
+  },
+  {
+    "companyId": 165,
+    "fieldId": 7
+  },
+  {
+    "companyId": 165,
+    "fieldId": 8
+  },
+  {
+    "companyId": 165,
+    "fieldId": 33
+  },
+  {
+    "companyId": 166,
+    "fieldId": 15
+  },
+  {
+    "companyId": 167,
+    "fieldId": 1
+  },
+  {
+    "companyId": 167,
+    "fieldId": 20
+  },
+  {
+    "companyId": 167,
+    "fieldId": 23
+  },
+  {
+    "companyId": 167,
+    "fieldId": 35
+  },
+  {
+    "companyId": 168,
+    "fieldId": 8
+  },
+  {
+    "companyId": 168,
+    "fieldId": 11
+  },
+  {
+    "companyId": 168,
+    "fieldId": 39
+  },
+  {
+    "companyId": 169,
+    "fieldId": 14
+  },
+  {
+    "companyId": 170,
+    "fieldId": 12
+  },
+  {
+    "companyId": 170,
+    "fieldId": 13
+  },
+  {
+    "companyId": 170,
+    "fieldId": 41
+  },
+  {
+    "companyId": 171,
+    "fieldId": 2
+  },
+  {
+    "companyId": 171,
+    "fieldId": 4
+  },
+  {
+    "companyId": 171,
+    "fieldId": 7
+  },
+  {
+    "companyId": 172,
+    "fieldId": 28
+  },
+  {
+    "companyId": 173,
+    "fieldId": 27
+  },
+  {
+    "companyId": 174,
+    "fieldId": 2
+  },
+  {
+    "companyId": 174,
+    "fieldId": 13
+  },
+  {
+    "companyId": 174,
+    "fieldId": 28
+  },
+  {
+    "companyId": 175,
+    "fieldId": 2
+  },
+  {
+    "companyId": 175,
+    "fieldId": 4
+  },
+  {
+    "companyId": 176,
+    "fieldId": 2
+  },
+  {
+    "companyId": 176,
+    "fieldId": 11
+  },
+  {
+    "companyId": 176,
+    "fieldId": 14
+  },
+  {
+    "companyId": 177,
+    "fieldId": 26
+  },
+  {
+    "companyId": 178,
+    "fieldId": 14
+  },
+  {
+    "companyId": 179,
+    "fieldId": 21
+  },
+  {
+    "companyId": 179,
+    "fieldId": 27
+  },
+  {
+    "companyId": 180,
+    "fieldId": 4
+  },
+  {
+    "companyId": 180,
+    "fieldId": 5
+  },
+  {
+    "companyId": 181,
+    "fieldId": 24
+  },
+  {
+    "companyId": 182,
+    "fieldId": 3
+  },
+  {
+    "companyId": 182,
+    "fieldId": 20
+  },
+  {
+    "companyId": 182,
+    "fieldId": 21
+  },
+  {
+    "companyId": 183,
+    "fieldId": 13
+  },
+  {
+    "companyId": 183,
+    "fieldId": 21
+  },
+  {
+    "companyId": 183,
+    "fieldId": 32
+  },
+  {
+    "companyId": 184,
+    "fieldId": 4
+  },
+  {
+    "companyId": 185,
+    "fieldId": 4
+  },
+  {
+    "companyId": 185,
+    "fieldId": 12
+  },
+  {
+    "companyId": 185,
+    "fieldId": 13
+  },
+  {
+    "companyId": 187,
+    "fieldId": 17
+  },
+  {
+    "companyId": 188,
+    "fieldId": 1
+  },
+  {
+    "companyId": 188,
+    "fieldId": 24
+  },
+  {
+    "companyId": 188,
+    "fieldId": 38
+  },
+  {
+    "companyId": 189,
+    "fieldId": 4
+  },
+  {
+    "companyId": 189,
+    "fieldId": 17
+  },
+  {
+    "companyId": 189,
+    "fieldId": 24
+  },
+  {
+    "companyId": 190,
+    "fieldId": 9
+  },
+  {
+    "companyId": 190,
+    "fieldId": 26
+  },
+  {
+    "companyId": 190,
+    "fieldId": 34
+  },
+  {
+    "companyId": 191,
+    "fieldId": 8
+  },
+  {
+    "companyId": 192,
+    "fieldId": 27
+  },
+  {
+    "companyId": 193,
+    "fieldId": 2
+  },
+  {
+    "companyId": 193,
+    "fieldId": 5
+  },
+  {
+    "companyId": 193,
+    "fieldId": 10
+  },
+  {
+    "companyId": 194,
+    "fieldId": 22
+  },
+  {
+    "companyId": 194,
+    "fieldId": 23
+  },
+  {
+    "companyId": 194,
+    "fieldId": 35
+  },
+  {
+    "companyId": 195,
+    "fieldId": 31
+  },
+  {
+    "companyId": 196,
+    "fieldId": 22
+  },
+  {
+    "companyId": 196,
+    "fieldId": 23
+  },
+  {
+    "companyId": 196,
+    "fieldId": 35
+  },
+  {
+    "companyId": 197,
+    "fieldId": 9
+  },
+  {
+    "companyId": 198,
+    "fieldId": 10
+  },
+  {
+    "companyId": 198,
+    "fieldId": 14
+  },
+  {
+    "companyId": 199,
+    "fieldId": 9
+  },
+  {
+    "companyId": 200,
+    "fieldId": 2
+  },
+  {
+    "companyId": 201,
+    "fieldId": 3
+  },
+  {
+    "companyId": 201,
+    "fieldId": 4
+  },
+  {
+    "companyId": 201,
+    "fieldId": 31
+  },
+  {
+    "companyId": 202,
+    "fieldId": 2
+  },
+  {
+    "companyId": 202,
+    "fieldId": 20
+  },
+  {
+    "companyId": 202,
+    "fieldId": 24
+  },
+  {
+    "companyId": 202,
+    "fieldId": 42
+  },
+  {
+    "companyId": 203,
+    "fieldId": 10
+  },
+  {
+    "companyId": 203,
+    "fieldId": 24
+  },
+  {
+    "companyId": 203,
+    "fieldId": 30
+  },
+  {
+    "companyId": 203,
+    "fieldId": 32
+  },
+  {
+    "companyId": 204,
+    "fieldId": 7
+  },
+  {
+    "companyId": 204,
+    "fieldId": 11
+  },
+  {
+    "companyId": 204,
+    "fieldId": 39
+  },
+  {
+    "companyId": 204,
+    "fieldId": 40
+  },
+  {
+    "companyId": 205,
+    "fieldId": 2
+  },
+  {
+    "companyId": 206,
+    "fieldId": 3
+  },
+  {
+    "companyId": 206,
+    "fieldId": 9
+  },
+  {
+    "companyId": 206,
+    "fieldId": 34
+  },
+  {
+    "companyId": 206,
+    "fieldId": 39
+  },
+  {
+    "companyId": 207,
+    "fieldId": 2
+  },
+  {
+    "companyId": 207,
+    "fieldId": 11
+  },
+  {
+    "companyId": 207,
+    "fieldId": 13
+  },
+  {
+    "companyId": 207,
+    "fieldId": 17
+  },
+  {
+    "companyId": 208,
+    "fieldId": 4
+  },
+  {
+    "companyId": 208,
+    "fieldId": 24
+  },
+  {
+    "companyId": 208,
+    "fieldId": 25
+  },
+  {
+    "companyId": 208,
+    "fieldId": 35
+  },
+  {
+    "companyId": 209,
+    "fieldId": 42
+  },
+  {
+    "companyId": 210,
+    "fieldId": 42
+  },
+  {
+    "companyId": 211,
+    "fieldId": 2
+  },
+  {
+    "companyId": 211,
+    "fieldId": 17
+  },
+  {
+    "companyId": 211,
+    "fieldId": 24
+  },
+  {
+    "companyId": 211,
+    "fieldId": 39
+  },
+  {
+    "companyId": 212,
+    "fieldId": 4
+  },
+  {
+    "companyId": 213,
+    "fieldId": 3
+  },
+  {
+    "companyId": 213,
+    "fieldId": 4
+  },
+  {
+    "companyId": 213,
+    "fieldId": 21
+  },
+  {
+    "companyId": 213,
+    "fieldId": 27
+  },
+  {
+    "companyId": 214,
+    "fieldId": 3
+  },
+  {
+    "companyId": 214,
+    "fieldId": 10
+  },
+  {
+    "companyId": 214,
+    "fieldId": 14
+  },
+  {
+    "companyId": 214,
+    "fieldId": 40
+  },
+  {
+    "companyId": 215,
+    "fieldId": 21
+  },
+  {
+    "companyId": 216,
+    "fieldId": 9
+  },
+  {
+    "companyId": 217,
+    "fieldId": 23
+  },
+  {
+    "companyId": 217,
+    "fieldId": 31
+  },
+  {
+    "companyId": 217,
+    "fieldId": 35
+  },
+  {
+    "companyId": 217,
+    "fieldId": 37
+  },
+  {
+    "companyId": 218,
+    "fieldId": 7
+  },
+  {
+    "companyId": 218,
+    "fieldId": 24
+  },
+  {
+    "companyId": 219,
+    "fieldId": 7
+  },
+  {
+    "companyId": 220,
+    "fieldId": 27
+  },
+  {
+    "companyId": 222,
+    "fieldId": 22
+  },
+  {
+    "companyId": 223,
+    "fieldId": 11
+  },
+  {
+    "companyId": 224,
+    "fieldId": 4
+  },
+  {
+    "companyId": 224,
+    "fieldId": 12
+  },
+  {
+    "companyId": 225,
+    "fieldId": 28
+  },
+  {
+    "companyId": 225,
+    "fieldId": 32
+  },
+  {
+    "companyId": 226,
+    "fieldId": 9
+  },
+  {
+    "companyId": 227,
+    "fieldId": 2
+  },
+  {
+    "companyId": 227,
+    "fieldId": 11
+  },
+  {
+    "companyId": 227,
+    "fieldId": 12
+  },
+  {
+    "companyId": 228,
+    "fieldId": 5
+  },
+  {
+    "companyId": 229,
+    "fieldId": 2
+  },
+  {
+    "companyId": 229,
+    "fieldId": 6
+  },
+  {
+    "companyId": 229,
+    "fieldId": 10
+  },
+  {
+    "companyId": 230,
+    "fieldId": 42
+  },
+  {
+    "companyId": 231,
+    "fieldId": 22
+  },
+  {
+    "companyId": 232,
+    "fieldId": 30
+  },
+  {
+    "companyId": 232,
+    "fieldId": 35
+  },
+  {
+    "companyId": 233,
+    "fieldId": 9
+  },
+  {
+    "companyId": 235,
+    "fieldId": 4
+  },
+  {
+    "companyId": 235,
+    "fieldId": 17
+  },
+  {
+    "companyId": 235,
+    "fieldId": 20
+  },
+  {
+    "companyId": 236,
+    "fieldId": 10
+  },
+  {
+    "companyId": 236,
+    "fieldId": 24
+  },
+  {
+    "companyId": 237,
+    "fieldId": 6
+  },
+  {
+    "companyId": 237,
+    "fieldId": 11
+  },
+  {
+    "companyId": 237,
+    "fieldId": 14
+  },
+  {
+    "companyId": 238,
+    "fieldId": 2
+  },
+  {
+    "companyId": 238,
+    "fieldId": 12
+  },
+  {
+    "companyId": 238,
+    "fieldId": 24
+  },
+  {
+    "companyId": 238,
+    "fieldId": 30
+  },
+  {
+    "companyId": 240,
+    "fieldId": 11
+  },
+  {
+    "companyId": 240,
+    "fieldId": 15
+  },
+  {
+    "companyId": 240,
+    "fieldId": 20
+  },
+  {
+    "companyId": 240,
+    "fieldId": 38
+  },
+  {
+    "companyId": 241,
+    "fieldId": 2
+  },
+  {
+    "companyId": 241,
+    "fieldId": 6
+  },
+  {
+    "companyId": 242,
+    "fieldId": 4
+  },
+  {
+    "companyId": 242,
+    "fieldId": 12
+  },
+  {
+    "companyId": 242,
+    "fieldId": 34
+  },
+  {
+    "companyId": 242,
+    "fieldId": 40
+  },
+  {
+    "companyId": 243,
+    "fieldId": 32
+  },
+  {
+    "companyId": 244,
+    "fieldId": 1
+  },
+  {
+    "companyId": 244,
+    "fieldId": 6
+  },
+  {
+    "companyId": 244,
+    "fieldId": 22
+  },
+  {
+    "companyId": 244,
+    "fieldId": 35
+  },
+  {
+    "companyId": 245,
+    "fieldId": 3
+  },
+  {
+    "companyId": 246,
+    "fieldId": 27
+  },
+  {
+    "companyId": 247,
+    "fieldId": 20
+  },
+  {
+    "companyId": 247,
+    "fieldId": 27
+  },
+  {
+    "companyId": 248,
+    "fieldId": 36
+  },
+  {
+    "companyId": 249,
+    "fieldId": 3
+  },
+  {
+    "companyId": 250,
+    "fieldId": 8
+  },
+  {
+    "companyId": 251,
+    "fieldId": 12
+  },
+  {
+    "companyId": 251,
+    "fieldId": 15
+  },
+  {
+    "companyId": 251,
+    "fieldId": 22
+  },
+  {
+    "companyId": 251,
+    "fieldId": 23
+  },
+  {
+    "companyId": 252,
+    "fieldId": 14
+  },
+  {
+    "companyId": 253,
+    "fieldId": 24
+  },
+  {
+    "companyId": 254,
+    "fieldId": 2
+  },
+  {
+    "companyId": 255,
+    "fieldId": 11
+  },
+  {
+    "companyId": 256,
+    "fieldId": 2
+  },
+  {
+    "companyId": 256,
+    "fieldId": 9
+  },
+  {
+    "companyId": 256,
+    "fieldId": 11
+  },
+  {
+    "companyId": 256,
+    "fieldId": 37
+  },
+  {
+    "companyId": 257,
+    "fieldId": 11
+  },
+  {
+    "companyId": 258,
+    "fieldId": 2
+  },
+  {
+    "companyId": 258,
+    "fieldId": 8
+  },
+  {
+    "companyId": 259,
+    "fieldId": 16
+  },
+  {
+    "companyId": 260,
+    "fieldId": 3
+  },
+  {
+    "companyId": 260,
+    "fieldId": 4
+  },
+  {
+    "companyId": 260,
+    "fieldId": 12
+  },
+  {
+    "companyId": 261,
+    "fieldId": 2
+  },
+  {
+    "companyId": 261,
+    "fieldId": 7
+  },
+  {
+    "companyId": 261,
+    "fieldId": 11
+  },
+  {
+    "companyId": 261,
+    "fieldId": 14
+  },
+  {
+    "companyId": 262,
+    "fieldId": 2
+  },
+  {
+    "companyId": 262,
+    "fieldId": 6
+  },
+  {
+    "companyId": 262,
+    "fieldId": 31
+  },
+  {
+    "companyId": 262,
+    "fieldId": 33
+  },
+  {
+    "companyId": 263,
+    "fieldId": 8
+  },
+  {
+    "companyId": 264,
+    "fieldId": 2
+  },
+  {
+    "companyId": 264,
+    "fieldId": 10
+  },
+  {
+    "companyId": 264,
+    "fieldId": 14
+  },
+  {
+    "companyId": 264,
+    "fieldId": 31
+  },
+  {
+    "companyId": 265,
+    "fieldId": 4
+  },
+  {
+    "companyId": 265,
+    "fieldId": 17
+  },
+  {
+    "companyId": 265,
+    "fieldId": 31
+  },
+  {
+    "companyId": 265,
+    "fieldId": 32
+  },
+  {
+    "companyId": 267,
+    "fieldId": 2
+  },
+  {
+    "companyId": 267,
+    "fieldId": 6
+  },
+  {
+    "companyId": 267,
+    "fieldId": 7
+  },
+  {
+    "companyId": 267,
+    "fieldId": 17
+  },
+  {
+    "companyId": 268,
+    "fieldId": 10
+  },
+  {
+    "companyId": 268,
+    "fieldId": 14
+  },
+  {
+    "companyId": 268,
+    "fieldId": 24
+  },
+  {
+    "companyId": 269,
+    "fieldId": 24
+  },
+  {
+    "companyId": 270,
+    "fieldId": 2
+  },
+  {
+    "companyId": 270,
+    "fieldId": 7
+  },
+  {
+    "companyId": 270,
+    "fieldId": 20
+  },
+  {
+    "companyId": 270,
+    "fieldId": 21
+  },
+  {
+    "companyId": 271,
+    "fieldId": 2
+  },
+  {
+    "companyId": 271,
+    "fieldId": 6
+  },
+  {
+    "companyId": 271,
+    "fieldId": 13
+  },
+  {
+    "companyId": 271,
+    "fieldId": 28
+  },
+  {
+    "companyId": 272,
+    "fieldId": 32
+  },
+  {
+    "companyId": 273,
+    "fieldId": 4
+  },
+  {
+    "companyId": 273,
+    "fieldId": 6
+  },
+  {
+    "companyId": 273,
+    "fieldId": 24
+  },
+  {
+    "companyId": 273,
+    "fieldId": 38
+  },
+  {
+    "companyId": 274,
+    "fieldId": 30
+  },
+  {
+    "companyId": 275,
+    "fieldId": 36
+  },
+  {
+    "companyId": 276,
+    "fieldId": 2
+  },
+  {
+    "companyId": 276,
+    "fieldId": 26
+  },
+  {
+    "companyId": 276,
+    "fieldId": 27
+  },
+  {
+    "companyId": 276,
+    "fieldId": 42
+  },
+  {
+    "companyId": 277,
+    "fieldId": 21
+  },
+  {
+    "companyId": 277,
+    "fieldId": 27
+  },
+  {
+    "companyId": 278,
+    "fieldId": 11
+  },
+  {
+    "companyId": 280,
+    "fieldId": 5
+  },
+  {
+    "companyId": 281,
+    "fieldId": 30
+  },
+  {
+    "companyId": 282,
+    "fieldId": 2
+  },
+  {
+    "companyId": 282,
+    "fieldId": 3
+  },
+  {
+    "companyId": 282,
+    "fieldId": 6
+  },
+  {
+    "companyId": 282,
+    "fieldId": 10
+  },
+  {
+    "companyId": 283,
+    "fieldId": 12
+  },
+  {
+    "companyId": 284,
+    "fieldId": 2
+  },
+  {
+    "companyId": 284,
+    "fieldId": 6
+  },
+  {
+    "companyId": 284,
+    "fieldId": 11
+  },
+  {
+    "companyId": 284,
+    "fieldId": 30
+  },
+  {
+    "companyId": 285,
+    "fieldId": 24
+  },
+  {
+    "companyId": 286,
+    "fieldId": 6
+  },
+  {
+    "companyId": 286,
+    "fieldId": 7
+  },
+  {
+    "companyId": 286,
+    "fieldId": 12
+  },
+  {
+    "companyId": 286,
+    "fieldId": 24
+  },
+  {
+    "companyId": 287,
+    "fieldId": 9
+  },
+  {
+    "companyId": 287,
+    "fieldId": 14
+  },
+  {
+    "companyId": 288,
+    "fieldId": 22
+  },
+  {
+    "companyId": 289,
+    "fieldId": 14
+  },
+  {
+    "companyId": 289,
+    "fieldId": 24
+  },
+  {
+    "companyId": 289,
+    "fieldId": 37
+  },
+  {
+    "companyId": 290,
+    "fieldId": 13
+  },
+  {
+    "companyId": 290,
+    "fieldId": 25
+  },
+  {
+    "companyId": 291,
+    "fieldId": 27
+  },
+  {
+    "companyId": 291,
+    "fieldId": 42
+  },
+  {
+    "companyId": 292,
+    "fieldId": 12
+  },
+  {
+    "companyId": 292,
+    "fieldId": 26
+  },
+  {
+    "companyId": 293,
+    "fieldId": 3
+  },
+  {
+    "companyId": 293,
+    "fieldId": 4
+  },
+  {
+    "companyId": 293,
+    "fieldId": 6
+  },
+  {
+    "companyId": 294,
+    "fieldId": 12
+  },
+  {
+    "companyId": 294,
+    "fieldId": 37
+  },
+  {
+    "companyId": 294,
+    "fieldId": 39
+  },
+  {
+    "companyId": 295,
+    "fieldId": 2
+  },
+  {
+    "companyId": 296,
+    "fieldId": 8
+  },
+  {
+    "companyId": 296,
+    "fieldId": 10
+  },
+  {
+    "companyId": 296,
+    "fieldId": 35
+  },
+  {
+    "companyId": 297,
+    "fieldId": 15
+  },
+  {
+    "companyId": 298,
+    "fieldId": 11
+  },
+  {
+    "companyId": 299,
+    "fieldId": 14
+  },
+  {
+    "companyId": 300,
+    "fieldId": 2
+  },
+  {
+    "companyId": 300,
+    "fieldId": 24
+  },
+  {
+    "companyId": 300,
+    "fieldId": 30
+  },
+  {
+    "companyId": 300,
+    "fieldId": 39
+  },
+  {
+    "companyId": 301,
+    "fieldId": 4
+  },
+  {
+    "companyId": 302,
+    "fieldId": 2
+  },
+  {
+    "companyId": 302,
+    "fieldId": 6
+  },
+  {
+    "companyId": 302,
+    "fieldId": 10
+  },
+  {
+    "companyId": 303,
+    "fieldId": 12
+  },
+  {
+    "companyId": 303,
+    "fieldId": 14
+  },
+  {
+    "companyId": 304,
+    "fieldId": 19
+  },
+  {
+    "companyId": 305,
+    "fieldId": 11
+  },
+  {
+    "companyId": 306,
+    "fieldId": 11
+  },
+  {
+    "companyId": 307,
+    "fieldId": 1
+  },
+  {
+    "companyId": 307,
+    "fieldId": 13
+  },
+  {
+    "companyId": 307,
+    "fieldId": 30
+  },
+  {
+    "companyId": 308,
+    "fieldId": 8
+  },
+  {
+    "companyId": 309,
+    "fieldId": 15
+  },
+  {
+    "companyId": 309,
+    "fieldId": 22
+  },
+  {
+    "companyId": 309,
+    "fieldId": 35
+  },
+  {
+    "companyId": 309,
+    "fieldId": 37
+  },
+  {
+    "companyId": 310,
+    "fieldId": 4
+  },
+  {
+    "companyId": 310,
+    "fieldId": 31
+  },
+  {
+    "companyId": 310,
+    "fieldId": 32
+  },
+  {
+    "companyId": 310,
+    "fieldId": 38
+  },
+  {
+    "companyId": 311,
+    "fieldId": 2
+  },
+  {
+    "companyId": 311,
+    "fieldId": 14
+  },
+  {
+    "companyId": 311,
+    "fieldId": 25
+  },
+  {
+    "companyId": 311,
+    "fieldId": 42
+  },
+  {
+    "companyId": 312,
+    "fieldId": 30
+  },
+  {
+    "companyId": 313,
+    "fieldId": 14
+  },
+  {
+    "companyId": 313,
+    "fieldId": 32
+  },
+  {
+    "companyId": 314,
+    "fieldId": 26
+  },
+  {
+    "companyId": 315,
+    "fieldId": 25
+  },
+  {
+    "companyId": 316,
+    "fieldId": 25
+  },
+  {
+    "companyId": 317,
+    "fieldId": 25
+  },
+  {
+    "companyId": 318,
+    "fieldId": 21
+  },
+  {
+    "companyId": 319,
+    "fieldId": 21
+  },
+  {
+    "companyId": 320,
+    "fieldId": 21
+  },
+  {
+    "companyId": 321,
+    "fieldId": 21
+  },
+  {
+    "companyId": 322,
+    "fieldId": 8
+  },
+  {
+    "companyId": 323,
+    "fieldId": 8
+  },
+  {
+    "companyId": 324,
+    "fieldId": 8
+  },
+  {
+    "companyId": 325,
+    "fieldId": 29
+  },
+  {
+    "companyId": 326,
+    "fieldId": 29
+  },
+  {
+    "companyId": 327,
+    "fieldId": 29
+  },
+  {
+    "companyId": 328,
+    "fieldId": 29
+  },
+  {
+    "companyId": 329,
+    "fieldId": 29
+  },
+  {
+    "companyId": 330,
+    "fieldId": 29
+  },
+  {
+    "companyId": 331,
+    "fieldId": 29
+  },
+  {
+    "companyId": 332,
+    "fieldId": 29
+  },
+  {
+    "companyId": 333,
+    "fieldId": 29
+  },
+  {
+    "companyId": 334,
+    "fieldId": 29
+  },
+  {
+    "companyId": 335,
+    "fieldId": 7
+  },
+  {
+    "companyId": 336,
+    "fieldId": 7
+  },
+  {
+    "companyId": 337,
+    "fieldId": 7
+  },
+  {
+    "companyId": 338,
+    "fieldId": 7
+  },
+  {
+    "companyId": 339,
+    "fieldId": 7
+  },
+  {
+    "companyId": 340,
+    "fieldId": 15
+  },
+  {
+    "companyId": 341,
+    "fieldId": 15
+  },
+  {
+    "companyId": 342,
+    "fieldId": 15
+  },
+  {
+    "companyId": 343,
+    "fieldId": 15
+  },
+  {
+    "companyId": 344,
+    "fieldId": 15
+  },
+  {
+    "companyId": 345,
+    "fieldId": 15
+  },
+  {
+    "companyId": 346,
+    "fieldId": 15
+  },
+  {
+    "companyId": 347,
+    "fieldId": 15
+  },
+  {
+    "companyId": 348,
+    "fieldId": 15
+  },
+  {
+    "companyId": 349,
+    "fieldId": 15
+  },
+  {
+    "companyId": 350,
+    "fieldId": 15
+  },
+  {
+    "companyId": 351,
+    "fieldId": 15
+  },
+  {
+    "companyId": 352,
+    "fieldId": 15
+  },
+  {
+    "companyId": 353,
+    "fieldId": 29
+  },
+  {
+    "companyId": 354,
+    "fieldId": 29
+  },
+  {
+    "companyId": 355,
+    "fieldId": 11
+  },
+  {
+    "companyId": 356,
+    "fieldId": 11
+  },
+  {
+    "companyId": 357,
+    "fieldId": 11
+  },
+  {
+    "companyId": 358,
+    "fieldId": 11
+  },
+  {
+    "companyId": 359,
+    "fieldId": 11
+  },
+  {
+    "companyId": 360,
+    "fieldId": 11
+  },
+  {
+    "companyId": 361,
+    "fieldId": 11
+  },
+  {
+    "companyId": 362,
+    "fieldId": 11
+  },
+  {
+    "companyId": 363,
+    "fieldId": 11
+  },
+  {
+    "companyId": 364,
+    "fieldId": 11
+  },
+  {
+    "companyId": 365,
+    "fieldId": 11
+  },
+  {
+    "companyId": 366,
+    "fieldId": 42
+  },
+  {
+    "companyId": 367,
+    "fieldId": 42
+  },
+  {
+    "companyId": 368,
+    "fieldId": 42
+  },
+  {
+    "companyId": 369,
+    "fieldId": 42
+  },
+  {
+    "companyId": 370,
+    "fieldId": 42
+  },
+  {
+    "companyId": 371,
+    "fieldId": 42
+  },
+  {
+    "companyId": 372,
+    "fieldId": 42
+  },
+  {
+    "companyId": 373,
+    "fieldId": 42
+  },
+  {
+    "companyId": 374,
+    "fieldId": 42
+  },
+  {
+    "companyId": 375,
+    "fieldId": 42
+  },
+  {
+    "companyId": 376,
+    "fieldId": 42
+  },
+  {
+    "companyId": 377,
+    "fieldId": 1
+  },
+  {
+    "companyId": 378,
+    "fieldId": 1
+  },
+  {
+    "companyId": 379,
+    "fieldId": 1
+  },
+  {
+    "companyId": 380,
+    "fieldId": 5
+  },
+  {
+    "companyId": 381,
+    "fieldId": 5
+  },
+  {
+    "companyId": 382,
+    "fieldId": 5
+  },
+  {
+    "companyId": 383,
+    "fieldId": 4
+  },
+  {
+    "companyId": 384,
+    "fieldId": 4
+  },
+  {
+    "companyId": 385,
+    "fieldId": 12
+  },
+  {
+    "companyId": 386,
+    "fieldId": 12
+  },
+  {
+    "companyId": 387,
+    "fieldId": 12
+  },
+  {
+    "companyId": 388,
+    "fieldId": 3
+  },
+  {
+    "companyId": 389,
+    "fieldId": 3
+  },
+  {
+    "companyId": 390,
+    "fieldId": 3
+  },
+  {
+    "companyId": 391,
+    "fieldId": 3
+  },
+  {
+    "companyId": 392,
+    "fieldId": 3
+  },
+  {
+    "companyId": 393,
+    "fieldId": 3
+  },
+  {
+    "companyId": 394,
+    "fieldId": 3
+  },
+  {
+    "companyId": 395,
+    "fieldId": 3
+  },
+  {
+    "companyId": 396,
+    "fieldId": 3
+  },
+  {
+    "companyId": 397,
+    "fieldId": 37
+  },
+  {
+    "companyId": 398,
+    "fieldId": 18
+  },
+  {
+    "companyId": 399,
+    "fieldId": 37
+  },
+  {
+    "companyId": 400,
+    "fieldId": 37
+  },
+  {
+    "companyId": 401,
+    "fieldId": 41
+  },
+  {
+    "companyId": 402,
+    "fieldId": 23
+  },
+  {
+    "companyId": 403,
+    "fieldId": 22
+  },
+  {
+    "companyId": 404,
+    "fieldId": 22
+  },
+  {
+    "companyId": 405,
+    "fieldId": 22
+  },
+  {
+    "companyId": 405,
+    "fieldId": 35
+  },
+  {
+    "companyId": 405,
+    "fieldId": 37
+  },
+  {
+    "companyId": 406,
+    "fieldId": 39
+  },
+  {
+    "companyId": 407,
+    "fieldId": 39
+  },
+  {
+    "companyId": 408,
+    "fieldId": 18
+  },
+  {
+    "companyId": 409,
+    "fieldId": 35
+  },
+  {
+    "companyId": 410,
+    "fieldId": 35
+  },
+  {
+    "companyId": 411,
+    "fieldId": 35
+  },
+  {
+    "companyId": 412,
+    "fieldId": 37
+  },
+  {
+    "companyId": 413,
+    "fieldId": 35
+  },
+  {
+    "companyId": 414,
+    "fieldId": 35
+  },
+  {
+    "companyId": 415,
+    "fieldId": 6
+  },
+  {
+    "companyId": 416,
+    "fieldId": 37
+  },
+  {
+    "companyId": 417,
+    "fieldId": 37
+  },
+  {
+    "companyId": 418,
+    "fieldId": 37
+  },
+  {
+    "companyId": 419,
+    "fieldId": 37
+  },
+  {
+    "companyId": 420,
+    "fieldId": 37
+  },
+  {
+    "companyId": 421,
+    "fieldId": 37
+  },
+  {
+    "companyId": 422,
+    "fieldId": 37
+  },
+  {
+    "companyId": 423,
+    "fieldId": 37
+  },
+  {
+    "companyId": 424,
+    "fieldId": 2
+  },
+  {
+    "companyId": 425,
+    "fieldId": 2
+  },
+  {
+    "companyId": 426,
+    "fieldId": 2
+  },
+  {
+    "companyId": 427,
+    "fieldId": 39
+  },
+  {
+    "companyId": 428,
+    "fieldId": 16
+  },
+  {
+    "companyId": 429,
+    "fieldId": 16
+  },
+  {
+    "companyId": 430,
+    "fieldId": 16
+  },
+  {
+    "companyId": 431,
+    "fieldId": 15
+  },
+  {
+    "companyId": 431,
+    "fieldId": 17
+  },
+  {
+    "companyId": 432,
+    "fieldId": 8
+  },
+  {
+    "companyId": 433,
+    "fieldId": 4
+  },
+  {
+    "companyId": 433,
+    "fieldId": 31
+  },
+  {
+    "companyId": 433,
+    "fieldId": 32
+  },
+  {
+    "companyId": 434,
+    "fieldId": 4
+  },
+  {
+    "companyId": 434,
+    "fieldId": 17
+  },
+  {
+    "companyId": 435,
+    "fieldId": 12
+  },
+  {
+    "companyId": 435,
+    "fieldId": 17
+  },
+  {
+    "companyId": 436,
+    "fieldId": 38
+  },
+  {
+    "companyId": 436,
+    "fieldId": 40
+  },
+  {
+    "companyId": 437,
+    "fieldId": 40
+  },
+  {
+    "companyId": 438,
+    "fieldId": 14
+  },
+  {
+    "companyId": 438,
+    "fieldId": 40
+  },
+  {
+    "companyId": 438,
+    "fieldId": 42
+  },
+  {
+    "companyId": 439,
+    "fieldId": 10
+  },
+  {
+    "companyId": 439,
+    "fieldId": 24
+  },
+  {
+    "companyId": 439,
+    "fieldId": 30
+  },
+  {
+    "companyId": 440,
+    "fieldId": 19
+  },
+  {
+    "companyId": 441,
+    "fieldId": 27
+  },
+  {
+    "companyId": 442,
+    "fieldId": 7
+  },
+  {
+    "companyId": 442,
+    "fieldId": 36
+  },
+  {
+    "companyId": 443,
+    "fieldId": 2
+  },
+  {
+    "companyId": 443,
+    "fieldId": 5
+  },
+  {
+    "companyId": 443,
+    "fieldId": 14
+  },
+  {
+    "companyId": 443,
+    "fieldId": 33
+  },
+  {
+    "companyId": 444,
+    "fieldId": 36
+  },
+  {
+    "companyId": 445,
+    "fieldId": 12
+  },
+  {
+    "companyId": 445,
+    "fieldId": 32
+  },
+  {
+    "companyId": 446,
+    "fieldId": 13
+  },
+  {
+    "companyId": 446,
+    "fieldId": 31
+  },
+  {
+    "companyId": 446,
+    "fieldId": 32
+  },
+  {
+    "companyId": 447,
+    "fieldId": 7
+  },
+  {
+    "companyId": 447,
+    "fieldId": 36
+  },
+  {
+    "companyId": 447,
+    "fieldId": 40
+  },
+  {
+    "companyId": 448,
+    "fieldId": 7
+  },
+  {
+    "companyId": 448,
+    "fieldId": 8
+  },
+  {
+    "companyId": 448,
+    "fieldId": 14
+  },
+  {
+    "companyId": 449,
+    "fieldId": 7
+  },
+  {
+    "companyId": 449,
+    "fieldId": 36
+  },
+  {
+    "companyId": 449,
+    "fieldId": 40
+  },
+  {
+    "companyId": 450,
+    "fieldId": 29
+  },
+  {
+    "companyId": 450,
+    "fieldId": 40
+  },
+  {
+    "companyId": 451,
+    "fieldId": 4
+  },
+  {
+    "companyId": 451,
+    "fieldId": 17
+  },
+  {
+    "companyId": 452,
+    "fieldId": 15
+  },
+  {
+    "companyId": 452,
+    "fieldId": 22
+  },
+  {
+    "companyId": 453,
+    "fieldId": 10
+  },
+  {
+    "companyId": 453,
+    "fieldId": 14
+  },
+  {
+    "companyId": 454,
+    "fieldId": 4
+  },
+  {
+    "companyId": 454,
+    "fieldId": 17
+  },
+  {
+    "companyId": 455,
+    "fieldId": 22
+  },
+  {
+    "companyId": 455,
+    "fieldId": 32
+  },
+  {
+    "companyId": 456,
+    "fieldId": 10
+  },
+  {
+    "companyId": 456,
+    "fieldId": 11
+  },
+  {
+    "companyId": 457,
+    "fieldId": 22
+  },
+  {
+    "companyId": 458,
+    "fieldId": 31
+  },
+  {
+    "companyId": 459,
+    "fieldId": 12
+  },
+  {
+    "companyId": 459,
+    "fieldId": 14
+  },
+  {
+    "companyId": 460,
+    "fieldId": 11
+  },
+  {
+    "companyId": 460,
+    "fieldId": 24
+  },
+  {
+    "companyId": 461,
+    "fieldId": 8
+  },
+  {
+    "companyId": 461,
+    "fieldId": 29
+  },
+  {
+    "companyId": 462,
+    "fieldId": 30
+  },
+  {
+    "companyId": 462,
+    "fieldId": 40
+  },
+  {
+    "companyId": 463,
+    "fieldId": 7
+  },
+  {
+    "companyId": 463,
+    "fieldId": 8
+  },
+  {
+    "companyId": 463,
+    "fieldId": 10
+  },
+  {
+    "companyId": 463,
+    "fieldId": 40
+  },
+  {
+    "companyId": 464,
+    "fieldId": 2
+  },
+  {
+    "companyId": 464,
+    "fieldId": 8
+  },
+  {
+    "companyId": 464,
+    "fieldId": 10
+  },
+  {
+    "companyId": 464,
+    "fieldId": 17
+  },
+  {
+    "companyId": 465,
+    "fieldId": 22
+  },
+  {
+    "companyId": 465,
+    "fieldId": 35
+  },
+  {
+    "companyId": 466,
+    "fieldId": 22
+  },
+  {
+    "companyId": 467,
+    "fieldId": 6
+  },
+  {
+    "companyId": 467,
+    "fieldId": 11
+  },
+  {
+    "companyId": 467,
+    "fieldId": 15
+  },
+  {
+    "companyId": 468,
+    "fieldId": 8
+  },
+  {
+    "companyId": 468,
+    "fieldId": 40
+  },
+  {
+    "companyId": 468,
+    "fieldId": 42
+  },
+  {
+    "companyId": 469,
+    "fieldId": 1
+  },
+  {
+    "companyId": 469,
+    "fieldId": 35
+  },
+  {
+    "companyId": 470,
+    "fieldId": 6
+  },
+  {
+    "companyId": 470,
+    "fieldId": 11
+  },
+  {
+    "companyId": 470,
+    "fieldId": 15
+  },
+  {
+    "companyId": 471,
+    "fieldId": 22
+  },
+  {
+    "companyId": 472,
+    "fieldId": 19
+  },
+  {
+    "companyId": 472,
+    "fieldId": 22
+  },
+  {
+    "companyId": 473,
+    "fieldId": 14
+  },
+  {
+    "companyId": 473,
+    "fieldId": 17
+  },
+  {
+    "companyId": 474,
+    "fieldId": 14
+  },
+  {
+    "companyId": 474,
+    "fieldId": 23
+  },
+  {
+    "companyId": 475,
+    "fieldId": 12
+  },
+  {
+    "companyId": 475,
+    "fieldId": 14
+  },
+  {
+    "companyId": 476,
+    "fieldId": 12
+  },
+  {
+    "companyId": 476,
+    "fieldId": 14
+  },
+  {
+    "companyId": 477,
+    "fieldId": 10
+  },
+  {
+    "companyId": 477,
+    "fieldId": 14
+  },
+  {
+    "companyId": 478,
+    "fieldId": 12
+  },
+  {
+    "companyId": 478,
+    "fieldId": 14
+  },
+  {
+    "companyId": 479,
+    "fieldId": 14
+  },
+  {
+    "companyId": 479,
+    "fieldId": 22
+  },
+  {
+    "companyId": 480,
+    "fieldId": 14
+  },
+  {
+    "companyId": 481,
+    "fieldId": 9
+  },
+  {
+    "companyId": 482,
+    "fieldId": 9
+  },
+  {
+    "companyId": 483,
+    "fieldId": 9
+  },
+  {
+    "companyId": 484,
+    "fieldId": 9
+  },
+  {
+    "companyId": 485,
+    "fieldId": 13
+  },
+  {
+    "companyId": 486,
+    "fieldId": 13
+  },
+  {
+    "companyId": 487,
+    "fieldId": 13
+  },
+  {
+    "companyId": 488,
+    "fieldId": 14
+  },
+  {
+    "companyId": 489,
+    "fieldId": 14
+  },
+  {
+    "companyId": 490,
+    "fieldId": 14
+  },
+  {
+    "companyId": 491,
+    "fieldId": 34
+  },
+  {
+    "companyId": 492,
+    "fieldId": 34
+  },
+  {
+    "companyId": 493,
+    "fieldId": 34
+  },
+  {
+    "companyId": 494,
+    "fieldId": 12
+  },
+  {
+    "companyId": 494,
+    "fieldId": 17
+  },
+  {
+    "companyId": 494,
+    "fieldId": 34
+  },
+  {
+    "companyId": 495,
+    "fieldId": 12
+  },
+  {
+    "companyId": 495,
+    "fieldId": 17
+  },
+  {
+    "companyId": 495,
+    "fieldId": 34
+  },
+  {
+    "companyId": 496,
+    "fieldId": 12
+  },
+  {
+    "companyId": 496,
+    "fieldId": 17
+  },
+  {
+    "companyId": 496,
+    "fieldId": 34
+  },
+  {
+    "companyId": 497,
+    "fieldId": 34
+  },
+  {
+    "companyId": 498,
+    "fieldId": 34
+  },
+  {
+    "companyId": 499,
+    "fieldId": 34
+  },
+  {
+    "companyId": 500,
+    "fieldId": 12
+  },
+  {
+    "companyId": 500,
+    "fieldId": 17
+  },
+  {
+    "companyId": 500,
+    "fieldId": 34
+  },
+  {
+    "companyId": 501,
+    "fieldId": 12
+  },
+  {
+    "companyId": 501,
+    "fieldId": 17
+  },
+  {
+    "companyId": 501,
+    "fieldId": 34
+  },
+  {
+    "companyId": 502,
+    "fieldId": 14
+  },
+  {
+    "companyId": 503,
+    "fieldId": 14
+  },
+  {
+    "companyId": 504,
+    "fieldId": 14
+  },
+  {
+    "companyId": 505,
+    "fieldId": 12
+  },
+  {
+    "companyId": 505,
+    "fieldId": 14
+  },
+  {
+    "companyId": 506,
+    "fieldId": 12
+  },
+  {
+    "companyId": 506,
+    "fieldId": 14
+  },
+  {
+    "companyId": 507,
+    "fieldId": 12
+  },
+  {
+    "companyId": 507,
+    "fieldId": 14
+  },
+  {
+    "companyId": 508,
+    "fieldId": 12
+  },
+  {
+    "companyId": 508,
+    "fieldId": 14
+  },
+  {
+    "companyId": 509,
+    "fieldId": 12
+  },
+  {
+    "companyId": 509,
+    "fieldId": 14
+  },
+  {
+    "companyId": 510,
+    "fieldId": 12
+  },
+  {
+    "companyId": 510,
+    "fieldId": 14
+  },
+  {
+    "companyId": 511,
+    "fieldId": 12
+  },
+  {
+    "companyId": 511,
+    "fieldId": 14
+  },
+  {
+    "companyId": 512,
+    "fieldId": 12
+  },
+  {
+    "companyId": 512,
+    "fieldId": 14
+  },
+  {
+    "companyId": 513,
+    "fieldId": 12
+  },
+  {
+    "companyId": 513,
+    "fieldId": 14
+  },
+  {
+    "companyId": 514,
+    "fieldId": 12
+  },
+  {
+    "companyId": 514,
+    "fieldId": 14
+  },
+  {
+    "companyId": 515,
+    "fieldId": 12
+  },
+  {
+    "companyId": 515,
+    "fieldId": 14
+  },
+  {
+    "companyId": 516,
+    "fieldId": 12
+  },
+  {
+    "companyId": 516,
+    "fieldId": 14
+  }
+]

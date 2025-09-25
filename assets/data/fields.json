@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "typeId": 1,
+    "name": "Business Angels"
+  },
+  {
+    "id": 2,
+    "typeId": 2,
+    "name": "Training"
+  },
+  {
+    "id": 3,
+    "typeId": 2,
+    "name": "Business Online"
+  },
+  {
+    "id": 4,
+    "typeId": 2,
+    "name": "Marketing"
+  },
+  {
+    "id": 5,
+    "typeId": 2,
+    "name": "Hiring"
+  },
+  {
+    "id": 6,
+    "typeId": 2,
+    "name": "Mentoring"
+  },
+  {
+    "id": 7,
+    "typeId": 2,
+    "name": "Women"
+  },
+  {
+    "id": 8,
+    "typeId": 2,
+    "name": "NGOs"
+  },
+  {
+    "id": 9,
+    "typeId": 3,
+    "name": "Coworking / Maker Spaces"
+  },
+  {
+    "id": 10,
+    "typeId": 4,
+    "name": "Education"
+  },
+  {
+    "id": 11,
+    "typeId": 2,
+    "name": "Incubators"
+  },
+  {
+    "id": 12,
+    "typeId": 2,
+    "name": "Teach Advice"
+  },
+  {
+    "id": 13,
+    "typeId": 2,
+    "name": "Information"
+  },
+  {
+    "id": 14,
+    "typeId": 4,
+    "name": "Innovation"
+  },
+  {
+    "id": 15,
+    "typeId": 2,
+    "name": "Accelerators"
+  },
+  {
+    "id": 16,
+    "typeId": 1,
+    "name": "Crowd Funding"
+  },
+  {
+    "id": 17,
+    "typeId": 2,
+    "name": "Consulting"
+  },
+  {
+    "id": 18,
+    "typeId": 1,
+    "name": "Credit Guarantees"
+  },
+  {
+    "id": 19,
+    "typeId": 1,
+    "name": "Leasing"
+  },
+  {
+    "id": 20,
+    "typeId": 2,
+    "name": "Valuation & Strategy"
+  },
+  {
+    "id": 21,
+    "typeId": 2,
+    "name": "Accounting"
+  },
+  {
+    "id": 22,
+    "typeId": 1,
+    "name": "Venture Capital"
+  },
+  {
+    "id": 23,
+    "typeId": 1,
+    "name": "Private Equity"
+  },
+  {
+    "id": 24,
+    "typeId": 3,
+    "name": "Events"
+  },
+  {
+    "id": 25,
+    "typeId": 4,
+    "name": "Culture"
+  },
+  {
+    "id": 26,
+    "typeId": 5,
+    "name": "IP, TTO & KTOs"
+  },
+  {
+    "id": 27,
+    "typeId": 2,
+    "name": "Legal"
+  },
+  {
+    "id": 28,
+    "typeId": 2,
+    "name": "Research"
+  },
+  {
+    "id": 29,
+    "typeId": 4,
+    "name": "Donors"
+  },
+  {
+    "id": 30,
+    "typeId": 3,
+    "name": "Competitions"
+  },
+  {
+    "id": 31,
+    "typeId": 3,
+    "name": "Media"
+  },
+  {
+    "id": 32,
+    "typeId": 3,
+    "name": "Platforms"
+  },
+  {
+    "id": 33,
+    "typeId": 2,
+    "name": "Special Abilities"
+  },
+  {
+    "id": 34,
+    "typeId": 5,
+    "name": "R&D"
+  },
+  {
+    "id": 35,
+    "typeId": 1,
+    "name": "Seed"
+  },
+  {
+    "id": 36,
+    "typeId": 1,
+    "name": "Micro Finance"
+  },
+  {
+    "id": 37,
+    "typeId": 1,
+    "name": "Preseed"
+  },
+  {
+    "id": 38,
+    "typeId": 5,
+    "name": "Export"
+  },
+  {
+    "id": 39,
+    "typeId": 1,
+    "name": "Grants"
+  },
+  {
+    "id": 40,
+    "typeId": 2,
+    "name": "Green Business"
+  },
+  {
+    "id": 41,
+    "typeId": 5,
+    "name": "Science and Technology Parks"
+  },
+  {
+    "id": 42,
+    "typeId": 2,
+    "name": "Policy"
+  }
+]
